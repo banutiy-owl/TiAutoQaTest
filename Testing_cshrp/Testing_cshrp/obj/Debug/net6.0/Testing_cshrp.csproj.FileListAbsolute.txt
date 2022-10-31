@@ -1,0 +1,15 @@
+C:\Mine\IT\PROG\testing\Testing_cshrp\Testing_cshrp\bin\Debug\net6.0\Testing_cshrp.exe
+C:\Mine\IT\PROG\testing\Testing_cshrp\Testing_cshrp\bin\Debug\net6.0\Testing_cshrp.deps.json
+C:\Mine\IT\PROG\testing\Testing_cshrp\Testing_cshrp\bin\Debug\net6.0\Testing_cshrp.runtimeconfig.json
+C:\Mine\IT\PROG\testing\Testing_cshrp\Testing_cshrp\bin\Debug\net6.0\Testing_cshrp.dll
+C:\Mine\IT\PROG\testing\Testing_cshrp\Testing_cshrp\bin\Debug\net6.0\Testing_cshrp.pdb
+C:\Mine\IT\PROG\testing\Testing_cshrp\Testing_cshrp\obj\Debug\net6.0\Testing_cshrp.csproj.AssemblyReference.cache
+C:\Mine\IT\PROG\testing\Testing_cshrp\Testing_cshrp\obj\Debug\net6.0\Testing_cshrp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mine\IT\PROG\testing\Testing_cshrp\Testing_cshrp\obj\Debug\net6.0\Testing_cshrp.AssemblyInfoInputs.cache
+C:\Mine\IT\PROG\testing\Testing_cshrp\Testing_cshrp\obj\Debug\net6.0\Testing_cshrp.AssemblyInfo.cs
+C:\Mine\IT\PROG\testing\Testing_cshrp\Testing_cshrp\obj\Debug\net6.0\Testing_cshrp.csproj.CoreCompileInputs.cache
+C:\Mine\IT\PROG\testing\Testing_cshrp\Testing_cshrp\obj\Debug\net6.0\Testing_cshrp.dll
+C:\Mine\IT\PROG\testing\Testing_cshrp\Testing_cshrp\obj\Debug\net6.0\refint\Testing_cshrp.dll
+C:\Mine\IT\PROG\testing\Testing_cshrp\Testing_cshrp\obj\Debug\net6.0\Testing_cshrp.pdb
+C:\Mine\IT\PROG\testing\Testing_cshrp\Testing_cshrp\obj\Debug\net6.0\Testing_cshrp.genruntimeconfig.cache
+C:\Mine\IT\PROG\testing\Testing_cshrp\Testing_cshrp\obj\Debug\net6.0\ref\Testing_cshrp.dll
